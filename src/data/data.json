@@ -1,0 +1,43 @@
+[
+    {
+        "barcode":"1265567",
+        "product":"coconut oil",
+        "supplier":"Sad cow",
+        "expirationdate":"23/3/24",
+        "Daystoexpire":"23"
+
+    },
+    {
+        "barcode":"035353567",
+        "product":"dandruff prevention",
+        "supplier":"Happy cow",
+        "expirationdate":"23/3/24",
+        "Daystoexpire":"23"
+
+    },
+    {
+        "barcode":"7786262",
+        "product":"milk solids",
+        "supplier":"thebluecorp",
+        "expirationdate":"23/3/24",
+        "Daystoexpire":"23"
+
+    },
+    {
+        "barcode":"73783993",
+        "product":"banana cookies",
+        "supplier":"vibescompany",
+        "expirationdate":"23/3/24",
+        "Daystoexpire":"23"
+
+    },
+    {
+        "barcode":"7738383",
+        "product":"breadcrumbs",
+        "supplier":"camindos",
+        "expirationdate":"23/3/24",
+        "Daystoexpire":"23"
+
+    }
+    
+]
